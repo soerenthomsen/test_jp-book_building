@@ -4,3 +4,7 @@
 title: My sample book
 author: Soeren Thomesn
 logo: logo.jpg
+
+# Add a bibtex file so that we can create citations
+bibtex_bibfiles:
+  - references.bib
